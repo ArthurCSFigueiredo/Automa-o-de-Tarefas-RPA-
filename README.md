@@ -1,18 +1,20 @@
 # Automacao de Cadastro de Produtos
 
-📌 Sobre o Projeto
+📌 **Sobre o Projeto**
 
 Este projeto realiza a automação do cadastro de produtos em um sistema web utilizando Python e a biblioteca PyAutoGUI. O código abre o navegador, faz login no sistema e insere automaticamente os dados de um arquivo CSV.
+
 
 🚀 **Tecnologias Utilizadas**
 
 **•Python**
 
-**PyAutoGUI** (Automação de interface gráfica)
+**•PyAutoGUI** (Automação de interface gráfica)
 
-**Pandas** (Manipulação de dados)
+**•Pandas** (Manipulação de dados)
 
-**Time** (Controle de tempo de execução)
+**•Time** (Controle de tempo de execução)
+
 
 🔧 **Como Funciona**
 
