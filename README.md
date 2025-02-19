@@ -21,7 +21,7 @@ Este projeto realiza a automação do cadastro de produtos em um sistema web uti
 **Abertura do Sistema:** O código abre o navegador, acessa a URL do sistema e aguarda o carregamento.
 
 **Login Automático:** Insere o e-mail e senha cadastrados e realiza o login.
-![Login fictício (Não incluso no projeto)](https://raw.githubusercontent.com/ArthurCSFigueiredo/Automa-o-de-Tarefas-RPA-/main/imagens/pj_rpa.jpg)
+![Login fictício (Não incluso no projeto)](https://github.com/ArthurCSFigueiredo/Automa-o-de-Tarefas-RPA-/blob/main/Automa%C3%A7%C3%A3o%20de%20Tarefas%20(RPA)/imagens/pj_rpa.jpg)
 
 
 **Importação da Base de Dados:** Lê um arquivo .CSV contendo os produtos a serem cadastrados.
