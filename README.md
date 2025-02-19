@@ -31,4 +31,5 @@ Este projeto realiza a automação do cadastro de produtos em um sistema web uti
 
 📢 **Observações**
 Foi utilizado para pegar a posição do cursor em tela, uma função do PyAutoGui chamada **pyautogui.position()** juntamente com um **time.sleep(8)** para posicionar o cursor no local correto.
+<br>
 ![Código para pegar posição](https://github.com/ArthurCSFigueiredo/Automa-o-de-Tarefas-RPA-/blob/main/Automa%C3%A7%C3%A3o%20de%20Tarefas%20(RPA)/imagens/pj_rpa3.jpg)
