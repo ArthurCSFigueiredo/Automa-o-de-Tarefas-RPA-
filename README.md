@@ -1,4 +1,4 @@
-# Automacao de Cadastro de Produtos
+# Automação de Cadastro de Produtos
 
 📌 **Sobre o Projeto**
 
